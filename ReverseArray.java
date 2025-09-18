@@ -8,7 +8,7 @@ public static void main(String[] args) {
 	int rev[]=getReverseArray(ar);
 	System.out.println(Arrays.toString(rev));
 }
-
+//without createing new array
 private static int[] getReverseArray(int[] ar) {
 	int f=0,l=ar.length-1;
 	while(f<l) {

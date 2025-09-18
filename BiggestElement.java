@@ -7,7 +7,7 @@ public static void main(String[] args) {
 	System.out.println(big);
 }
 private static int getBiggest(int[] ar) {
-	int big=ar[0];
+	int big=ar[0];//  first assign first element as a biggest
 	for(int i=0;i<ar.length;i++) {
 		if(ar[i]>big) {
 			big=ar[i];

@@ -9,7 +9,7 @@ public static void main(String[] args) {
 	int merge[]=mergeZigZag(ar1,ar2);
 	System.out.println(Arrays.toString(merge));
 }
-
+//merge the two arrays zigzag order
 private static int[] mergeZigZag(int[] ar1, int[] ar2) {
 	int res[]=new int[ar1.length+ar2.length];
 	int i=0,j=0;

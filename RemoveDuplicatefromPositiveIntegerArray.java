@@ -10,7 +10,7 @@ public static void main(String[] args) {
 	int [] res=getRemoveDuplicatedArray(ar);
 	System.out.println(Arrays.toString(res));
 }
-
+//remove dulicate without using any built in methods and efficient code
 private static int[] getRemoveDuplicatedArray(int[] ar) {
 	int count=0;
 	for(int i=0;i<ar.length;i++) {

@@ -1,7 +1,7 @@
 package ArraysClssprograms;
 
 import java.util.Scanner;
-
+//KeyBoard Typing using String
 public class MobilekeyBoard {
 public static void main(String[] args) {
 	Scanner sc=new Scanner(System.in);

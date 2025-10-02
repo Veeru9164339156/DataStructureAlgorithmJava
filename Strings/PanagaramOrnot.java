@@ -1,5 +1,5 @@
 package StringPrograms;
-
+// By Using frequency technique slove this problem
 public class PanagaramOrnot {
 public static void main(String[] args) {
 	String str="abcdefghijklmnopqrstuvwxyzs";

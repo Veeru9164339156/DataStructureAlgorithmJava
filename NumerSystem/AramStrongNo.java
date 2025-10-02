@@ -23,7 +23,7 @@ static boolean isAramStrongNO(int n) {
 	else
 		return false;
 }
-static int countDigits(int n) {
+static int countDigits(int n) {// count Digits here
 	int count=0;
 	do {
 		count++;

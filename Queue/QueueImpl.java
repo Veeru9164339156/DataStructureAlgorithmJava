@@ -1,5 +1,5 @@
 package QueImpl;
-
+// using linked list
 public class QueueImpl {
 public static void main(String[] args) {
 	MyQueue mq=new MyQueue();

@@ -1,5 +1,6 @@
 package TwoDArray2DArray;
 import java.util.Scanner;
+//without using a new matrix
 public class TranposeMatrix {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
